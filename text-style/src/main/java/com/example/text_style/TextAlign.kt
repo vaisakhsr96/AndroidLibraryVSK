@@ -8,7 +8,7 @@ fun textViewStyle(tv: TextView, color:String){
 
     tv.text="Hi library"
     tv.setTextColor(Color.parseColor(color))
-    tv.gravity = Gravity.RIGHT
+    tv.gravity = Gravity.CENTER
 
 
 
