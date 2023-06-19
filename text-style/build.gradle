@@ -48,7 +48,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.vaisakhsr96'
                 artifactId = 'textview-align-new'
-                version = '1.0.2'
+                version = '1.0.3'
             }
         }
     }
